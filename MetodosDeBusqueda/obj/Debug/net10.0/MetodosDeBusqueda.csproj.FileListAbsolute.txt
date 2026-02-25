@@ -1,0 +1,14 @@
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net10.0\MetodosDeBusqueda.exe
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net10.0\MetodosDeBusqueda.deps.json
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net10.0\MetodosDeBusqueda.runtimeconfig.json
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net10.0\MetodosDeBusqueda.dll
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net10.0\MetodosDeBusqueda.pdb
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\MetodosDeBusqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\MetodosDeBusqueda.AssemblyInfoInputs.cache
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\MetodosDeBusqueda.AssemblyInfo.cs
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\MetodosDeBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\MetodosDeBusqueda.dll
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\refint\MetodosDeBusqueda.dll
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\MetodosDeBusqueda.pdb
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\MetodosDeBusqueda.genruntimeconfig.cache
+C:\Users\estad\OneDrive\Escritorio\UMG\5to Semestre\Programación III\Tareas\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net10.0\ref\MetodosDeBusqueda.dll

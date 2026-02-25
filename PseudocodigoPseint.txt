@@ -1,0 +1,61 @@
+Algoritmo BusquedaMetodos
+    Dimension numeros[10]
+    Para i <- 1 Hasta 10 Hacer
+        numeros[i] <- i
+    Fin Para
+    
+    Escribir "Escriba un numero del 1 al 10 para buscar:"
+    Leer objetivo
+    
+    Escribir "Elija una opción para buscar:"
+    Escribir "1. Método Lineal"
+    Escribir "2. Método Binario"
+    Leer eleccion
+    
+    Si eleccion == 1 Entonces
+        posicion <- BusquedaLineal(numeros, objetivo)
+    Sino
+        posicion <- BusquedaBinaria(numeros, objetivo)
+    Fin Si
+    
+    Si posicion <> -1 Entonces
+        Escribir "El número es ", objetivo, " y está en la posición: ", posicion
+    Sino
+        Escribir "Número no encontrado."
+    Fin Si
+FinAlgoritmo
+
+Funcion retorno <- BusquedaLineal(arr, x)
+    retorno <- -1
+    i <- 1
+    encontrado <- Falso
+    Mientras i <= 10 Y encontrado == Falso Hacer
+        Escribir "Buscando en ", arr[i], "..."
+        Si arr[i] == x Entonces
+            retorno <- i
+            encontrado <- Verdadero
+        Sino
+            i <- i + 1
+        Fin Si
+    Fin Mientras
+Fin Funcion
+
+Funcion retorno <- BusquedaBinaria(arr, x)
+    retorno <- -1
+    bajo <- 1
+    alto <- 10
+    Mientras bajo <= alto Y retorno == -1 Hacer
+        medio <- Redon(bajo + (alto - bajo) / 2)
+        Escribir "Buscando en ", arr[medio], "..."
+        
+        Si arr[medio] == x Entonces
+            retorno <- medio
+        Sino 
+            Si arr[medio] < x Entonces
+                bajo <- medio + 1
+            Sino
+                alto <- medio - 1
+            Fin Si
+        Fin Si
+    Fin Mientras
+Fin Funcion
